@@ -9,7 +9,7 @@ Agenter is a desktop dashboard that brings your Claude Code and Codex sessions i
 
 ---
 
-## ✨ 1. What Can Agenter Do?
+##  1. What Can Agenter Do?
 
 - **Unified Dashboard:** Monitor multiple Codex sessions in one window.
 - **Live Monitoring:** See what each agent is doing and whether it is running, waiting, or finished.
@@ -19,7 +19,7 @@ Agenter is a desktop dashboard that brings your Claude Code and Codex sessions i
 - **Usage Monitoring:** Check your Codex usage and available reset times.
 - **Desktop Notifications:** Know when an agent needs your attention.
 
-## ⚖️ 2. With Agenter vs. Without Agenter
+##  2. With Agenter vs. Without Agenter
 
 You can achieve similar coding productivity without Agenter, but you will need to manage everything manually.
 
@@ -39,7 +39,7 @@ It does not make Codex execute code faster or improve its generated code quality
 
 ---
 
-## 🛠️ 3. Setup Guide (Windows 11 + Codex Free)
+##  3. Setup Guide (Windows 11 + Codex Free)
 
 ### Requirements
 
@@ -133,7 +133,7 @@ Open Agenter to monitor the sessions together.
 
 ---
 
-## 📊 4. Understanding Codex Free Usage Limits
+##  4. Understanding Codex Free Usage Limits
 
 Agenter can display your Codex usage, including applicable usage periods and reset times.
 
@@ -183,7 +183,7 @@ For the Codex desktop app, use its account/profile menu to sign out and sign in 
 
 ---
 
-## 🧠 5. How to Vibe Code Efficiently with Agenter
+##  5. How to Vibe Code Efficiently with Agenter
 
 Having multiple agents does not automatically mean faster development. You need to organize their responsibilities.
 
@@ -256,7 +256,7 @@ git commit -m "Complete backend implementation"
 
 ---
 
-## 💡 6. Recommended Multi-Agent Workflow
+## 6. Recommended Multi-Agent Workflow
 
 A practical workflow for beginners:
 
@@ -279,7 +279,7 @@ A practical workflow for beginners:
 
 ---
 
-## 🔗 7. Useful Resources
+## 7. Useful Resources
 
 - [Agenter on npm](https://www.npmjs.com/package/agenter-app)
 - [OpenAI Codex Documentation](https://developers.openai.com/codex/)
