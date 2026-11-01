@@ -1,4 +1,4 @@
-# 🚀 Agenter Created by [Ahmad](https://github.com/zxcoding123).
+# 🚀 Agenter by [Ahmad](https://github.com/zxcoding123).
 ### Your AI Coding Command Center
 
 **Manage multiple Codex sessions from one dashboard. Code smarter, switch less, and keep every AI agent under control.**
