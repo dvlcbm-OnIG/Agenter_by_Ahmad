@@ -47,20 +47,9 @@ It does not make Codex execute code faster or improve its generated code quality
 - Node.js 18 or newer
 - npm
 - A Codex-supported ChatGPT account
-- Internet connection for installation and normal Codex authentication
 
-### Step 1 — Check Node.js
 
-Open PowerShell or your VS Code terminal.
-
-```powershell
-node -v
-npm -v
-```
-
-If both commands display version numbers, you're ready.
-
-### Step 2 — Install Codex (skip if already installed)
+### Step 1 — Install Codex (skip if already installed)
 
 ```powershell
 npm install -g @openai/codex
@@ -72,7 +61,7 @@ Verify:
 codex --version
 ```
 
-### Step 3 — Sign in to Codex Free
+### Step 2 — Sign in to Codex Free
 
 Run:
 
@@ -84,7 +73,7 @@ Choose **Sign in with ChatGPT** and authenticate using your Free account.
 
 You can use Codex through its CLI, VS Code extension, or desktop app.
 
-### Step 4 — Install Agenter
+### Step 3 — Install Agenter
 
 Open PowerShell:
 
@@ -94,7 +83,7 @@ npm install -g agenter-app
 
 Install it globally, not through `npx`.
 
-### Step 5 — Open Agenter
+### Step 4 — Open Agenter
 
 ```powershell
 agenter
@@ -112,7 +101,7 @@ agenter install
 
 Then reload your VS Code windows to activate the Claude hooks.
 
-### Step 6 — Start using multiple sessions
+### Step 5 — Start using multiple sessions
 
 Open separate terminals in your project directory and start Codex:
 
