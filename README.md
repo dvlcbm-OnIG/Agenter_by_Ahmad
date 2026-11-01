@@ -235,7 +235,7 @@ Use the dashboard to:
 4. Answer questions and provide additional instructions.
 5. Stop unnecessary or conflicting tasks.
 
-### E. Review everything
+<!--### E. Review everything
 
 Never assume that generated code is automatically correct.
 
@@ -253,7 +253,7 @@ Use Git to protect your progress:
 git add .
 git commit -m "Complete backend implementation"
 ```
-
+-->
 ---
 
 ## 6. Recommended Multi-Agent Workflow
