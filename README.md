@@ -39,7 +39,7 @@ It does not make Codex execute code faster or improve its generated code quality
 
 ---
 
-##  3. Setup Guide (Windows 11 + Codex Free)
+##  3. Setup Guide 
 
 ### Requirements
 
