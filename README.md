@@ -288,7 +288,6 @@ A practical workflow for beginners:
 
 ---
 
-### Final Thoughts
 
 **Agenter is your command center. Codex is your workforce. You are the architect.**
 
