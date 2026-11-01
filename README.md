@@ -1,4 +1,4 @@
-# 🚀 Agenter + Codex Free
+# 🚀 Agenter Created by [@ahmad123](https://github.com/ahmad123).
 ### Your AI Coding Command Center
 
 **Manage multiple Codex sessions from one dashboard. Code smarter, switch less, and keep every AI agent under control.**
